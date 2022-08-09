@@ -176,3 +176,5 @@ Apps: sourcetree, gitkraken
 
 https://www.sourcetreeapp.com/
 https://www.gitkraken.com/			_#gostei do layout_
+
+GIT FLOW: https://www.youtube.com/watch?v=wzxBR4pOTTs
